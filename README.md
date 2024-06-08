@@ -1,6 +1,6 @@
 GET: users.php
 
-# Welcome to My First PHP Project!
+# Welcome to Social App!
 
 This repository is dedicated to my journey of learning and exploring PHP. Here, I delve into various aspects of PHP, focusing particularly on Object-Oriented Programming (OOP) concepts and database manipulation. Below, I'll provide a breakdown of what you can expect to find in this repository:
 
