@@ -1,5 +1,5 @@
 <?php
-require_once 'db/db.php';
+require_once '../../db/db.php';
 require __DIR__ . '/../vendor/autoload.php'; // Ruta correcta para cargar autoload.php
 
 use Ramsey\Uuid\Uuid;
