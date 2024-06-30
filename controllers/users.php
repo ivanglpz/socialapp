@@ -63,7 +63,7 @@ class Users
                 return "Error al guardar el registro.";
             }
         } catch (Exception $e) {
-            throw new Exception('Caught exception: ' +  $e->getMessage());
+            throw new Exception('Caught exception: ' .  $e->getMessage());
         }
     }
     public function updateUserById($id, $name)
